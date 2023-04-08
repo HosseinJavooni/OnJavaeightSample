@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9277c330-4870-462d-bdff-8bf0f48b5a31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/ananymosInnerClass/withClass/AnonymousInnerClassWithClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/ananymosInnerClass/withClass/ForAnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/ananymosInnerClass/withInterface/ForAnanymosInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/ananymosInnerClass/withInterface/ForAnanymosInnerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/insideAMethod/ForInsideAMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerClasses/insideAMethod/InsideAMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/innerClasses/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/innerClasses/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,21 +45,24 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/h.javooni/HDD/JavaProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MainClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -72,7 +82,7 @@
       <module name="OnJavaeightSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerClasses.*" />
+          <option name="PATTERN" value="innerClasses.insideAMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +107,8 @@
       <updated>1680532958877</updated>
       <workItem from="1680532959977" duration="2304000" />
       <workItem from="1680606599464" duration="3305000" />
+      <workItem from="1680934912479" duration="202000" />
+      <workItem from="1680950690844" duration="5040000" />
     </task>
     <servers />
   </component>
